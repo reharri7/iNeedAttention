@@ -1,6 +1,6 @@
 # iNeedAttention
 This is an app to send my phone a text at the press of a button
-Goals to be met:
+
 ## Goals to be met:
 
 Design basic routes
